@@ -1,4 +1,4 @@
-docker配置nexus-cli教程
+docker配置nexus-cli教程  推特：https://x.com/changeself59988
 
 1,安装docker，windows或者linux都可以，鉴于使用window，所以用window为例
 到 https://www.docker.com/get-started/  去下载window的docker descktop，然后安装
